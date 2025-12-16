@@ -16,7 +16,7 @@ I specialize in **Artificial Intelligence**, **Full-stack Development**, and **C
 
 <div align="center">
 
-## 🚀 Technical Arsenal
+### 🚀 Technical Arsenal
 I have a strong foundation in algorithms, system design, and AI-driven applications.
 
 | **Languages** | **Frameworks & Tools** | **Specializations** |
